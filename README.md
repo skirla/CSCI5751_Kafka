@@ -23,7 +23,7 @@ Consumer: Will consume 10 messages in parallel
 **KafkaMessageProcessor** : This is the Message Processor to Poll the messages from the producer  
 **Demo** :  Main executable file consist of the Producer and Consumer configuration and their initiation calls  
 
-## Laguage
+## Language
 
 Code is written in **Java** and any Java IDE can be used to read the code
 
