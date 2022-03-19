@@ -14,7 +14,7 @@ Consumer: Will consume 10 messages in parallel
 
 ## Main Files
 
-* [KafkaClient](src/main/java/edu/umn/kafka/KafkaClient)
+* [KafkaClient](./src/main/java/edu/umn/kafka/KafkaClient)
 * [KafkaMessageProcessor](src/main/java/edu/umn/kafka/KafkaMessageProcessor)
 * [Demo](src/main/java/edu/umn/kafka/Demo)
 
