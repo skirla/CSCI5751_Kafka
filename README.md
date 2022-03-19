@@ -16,7 +16,7 @@ Consumer: Will consume 10 messages in parallel
 
 * [KafkaClient](src/main/java/edu/umn/kafka/KafkaClient.java)
 * [KafkaMessageProcessor](src/main/java/edu/umn/kafka/KafkaMessageProcessor.java)
-* [Demo](src/main/java/edu/umn/kafka/Demo.java)
+* [Demo](src/main/java/Demo.java)
 
 ### *Class Definitions*
 **KafkaClient** : This is the Client class for producer and the consumer  
