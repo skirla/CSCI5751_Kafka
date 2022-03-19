@@ -9,7 +9,7 @@ CSCI-5751 : BONUS PROJECT
 ## Purpose
 Produce and Consume messages simultaneously
 
-Producer: Will produce 10 messages using an incremental value from 1 to 10
+Producer: Will produce 10 messages using an incremental value from 1 to 10  
 Consumer: Will consume 10 messages in parallel
 
 ## Main Files
